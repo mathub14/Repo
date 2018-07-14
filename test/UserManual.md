@@ -10,7 +10,7 @@ The Cryptogram application runs on the Android platform. It is designed to enter
 **User Login**
 To login to the Boston Towers Cryptogram application simply open the app and enter username into empty field then press the login button.  This will take you to the Player Login/Create page.
 
-![title|medium](https://github.gatech.edu/gt-omscs-se-2018summer/6300Summer18Team70/blob/master/GroupProject/Docs/userLogin.png)
+![](https://github.gatech.edu/gt-omscs-se-2018summer/6300Summer18Team70/blob/master/GroupProject/Docs/userLogin.png)<!-- .element height="50%" width="50%" -->
 
 **Create User**
 To Create a new user input a unique user id into the user login/new user screen and press new user. If the user id is unique in the system it will create the user, if it is not an error will occur and prompt the user to create a new unique user id.
